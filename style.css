@@ -43,8 +43,9 @@
   background-color: rgb(255, 106, 0);
 }
 .img1 {
-  width: 50%; /* Larghezza dell'immagine */
+  width: 100%; /* Larghezza dell'immagine */
   height: auto; /* Altezza automatica per mantenere le proporzioni */
+  justify-content: center;
 }
 .img2 {
   width: 45%; /* Larghezza dell'immagine */
