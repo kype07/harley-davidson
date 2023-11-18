@@ -1,0 +1,42 @@
+.hr1 {
+    height: 30px;
+    background-color: rgb(255, 106, 0);
+  }
+  .hr2 {
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    border-color: #ffffff;
+  }
+  .FinePagina {
+    background-color: #212529;
+  }
+  .LogoFinePagina {
+    width: 50px; /* Larghezza dell'immagine */
+    height: 50px; /* Altezza automatica per mantenere le proporzioni */
+  }
+  .of1 {
+    background-color: #eeeceb;
+  }
+.CARD2 {
+  display: flex;
+  justify-content: center;
+}
+.sopra-barretto {
+    color: darkgray;
+    text-decoration: overline; /* Aggiunge la barra sopra il testo */
+  }
+  .span1 {
+    display: flex;
+  }
+  .card-text {
+    color: black;
+  }
+  .card-text2 {
+    color: chocolate;
+   font-size: small;
+  }
+  .pagination {
+    display: flex;
+  justify-content: center;
+  
+  }
